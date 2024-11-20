@@ -1,7 +1,4 @@
 {
-  "name": "D3 Word Cloud",
-  "description": "A D3.js-based word cloud visualization.",
-  "script": "https://yourhosting.com/d3-wordcloud.js",
-  "style": "https://yourhosting.com/d3-wordcloud.css",
-  "icon": "https://yourhosting.com/wordcloud-icon.png"
+  "name": "Test Visualization",
+  "description": "A simple test visualization."
 }
